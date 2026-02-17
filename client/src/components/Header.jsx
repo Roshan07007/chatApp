@@ -57,7 +57,8 @@ const Header = () => {
                 onClick={() => navigate("/register")}
                 className="bg-(--color-secondary) py-2 px-4 font-bold hover:bg-(--color-secondary-hover) hover:text-white rounded "
               >
-                Register
+                Register 
+                <h1></h1>
               </button>
             </>
           )}
