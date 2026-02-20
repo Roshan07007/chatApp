@@ -55,11 +55,12 @@ const Header = () => {
               </button>
               <button
                 onClick={() => navigate("/register")}
+                
                 className="bg-(--color-secondary) py-2 px-4 font-bold hover:bg-(--color-secondary-hover) hover:text-white rounded "
               >
                 Register 
                 
-              </button>
+              </button>xx
             </>
           )}
         </div>
