@@ -9,11 +9,12 @@ const Header = () => {
 
   return (
     <>
+
       <div className="bg-(--color-primary) px-4 py-2 flex justify-between items-center">
         <Link to={"/"}>
           <img
             src={tranparentLogo}
-            alt=""
+            alt="logo"
             className="h-12 w-20 object-cover invert-100"
           />
         </Link>
