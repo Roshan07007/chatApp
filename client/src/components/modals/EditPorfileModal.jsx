@@ -103,7 +103,7 @@ const EditProfileModal = ({ onClose }) => {
                 >
                   Save Changes
                   <h1></h1>
-                </button>
+                </button>,
               </div>
             </form>
           </div>
